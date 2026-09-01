@@ -1,1 +1,1 @@
-# Hands-On-SIEM-Detection-Building-Breaking-and-Auditing-a-Wazuh-Lab-Environment
+hands-on-siem-detection-building-breaking-and-auditing-a-wazuh-lab-environment
